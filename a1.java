@@ -1,8 +1,11 @@
 import java.io.*;
 import java.math.*;
-import java.security.*;
+import java.security.*;//not used in program
 import java.text.*;
-import java.util.*;using namespace std;
+import java.util.*;
+
+
+using namespace std;
 int main() {
 int t;cin>>t;
 while(t--){
